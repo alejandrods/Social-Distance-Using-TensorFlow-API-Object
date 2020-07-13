@@ -5,7 +5,7 @@ We will detect pedestrians and calculate the distance between them. I have used 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BsTskLJ7gaXOgxd0fLc6LGLkS6lR4lmN?usp=sharing)
 
-### Table of Contents  
+## Table of Contents  
 
 [Installation](#Installation) 
 
