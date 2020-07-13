@@ -1,5 +1,5 @@
-# Social-Distance-Using-TensorFlow-API-Object
-Using Tensorflow API Object to detect persons and calculate the distance between them.
+# Social Distance Using TensorFlow Object Detection API
+We are going to use the TensorFlow Object Detection API to detect pedestrians and calculate the distance between them. I have used the `SSD with Mobilenet` model and I created some functions to improve the visualization of our predictions.
 
 ### Table of Contents  
 
