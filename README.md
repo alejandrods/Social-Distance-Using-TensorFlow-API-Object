@@ -1,34 +1,23 @@
 # Social Distance Using TensorFlow Object Detection API
-We are going to use the TensorFlow Object Detection API to detect pedestrians and calculate the distance between them. I have used the `SSD with Mobilenet` model and I created some functions to improve the visualization of our predictions.
+Today, unfortunately, everyone is familiar with the term "social distance". It's something we will have to live with for a while until everything returns to normal. At [Immune Technology Institute](https://immune.institute/en/) we have developed an application using the TensorFlow Object Detection API for identifying and measuring the social distance between pedestrians.
 
-### Table of Contents  
+We will detect pedestrians and calculate the distance between them. I have used the `SSD with Mobilenet` model and I created some functions to improve the visualization of our predictions.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BsTskLJ7gaXOgxd0fLc6LGLkS6lR4lmN?usp=sharing)
+
+## Table of Contents  
 
 [Installation](#Installation) 
 
 [Examples](#Examples)  
 
 <a name="Installation"></a>
-#### Installation
+### Installation
 
-1- Clone the repository from Tensorflow
-```
-https://github.com/tensorflow/models
-```
-
-2- Navigate to the folder
-```
-cd models/research/object_detection
-```
-
-3- Clone this repository into this folder
-```
-git clone git@github.com:alejandrods/Social-Distance-Using-TensorFlow-API-Object.git
-```
-
-4- Open `object_detection_distance.ipynb` and follow the instructions.
+I have wrote an article with all steps for measuring the social distance using TensorFlow Object Detection API. You can find it [here](https://medium.com/@immune_technology_institute)
 
 <a name="Examples"></a>
-#### Examples
+### Examples
 
 Social distance in images:
 
