@@ -5,13 +5,6 @@ We will detect pedestrians and calculate the distance between them. We have used
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BsTskLJ7gaXOgxd0fLc6LGLkS6lR4lmN?usp=sharing)
 
-### Table of Contents  
-
-[Run](#Run) 
-
-[Examples](#Examples)  
-
-<a name="Run"></a>
 ### Run
 
 I have wrote an article with all steps for measuring the social distance using TensorFlow Object Detection API. You can find it [here](https://medium.com/@immune_technology_institute)
