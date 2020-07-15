@@ -1,5 +1,5 @@
 ## Social Distance Using TensorFlow Object Detection API
-Today, unfortunately, everyone is familiar with the term "social distance". It's something we will have to live with for a while until everything returns to normal. At [Immune Technology Institute](https://immune.institute/en/) we have developed an application using the TensorFlow Object Detection API for identifying and measuring the social distance between pedestrians.
+Today, unfortunately, everyone is familiar with the term "social distance". It's something we will have to live with for a while until everything returns to normal. I have developed an application using the TensorFlow Object Detection API for identifying and measuring the social distance between pedestrians.
 
 We will detect pedestrians and calculate the distance between them. We have used the `SSD with Mobilenet` model and we created some functions to improve the visualization of our predictions.
 
@@ -7,18 +7,9 @@ We will detect pedestrians and calculate the distance between them. We have used
 
 ### Table of Contents  
 
-[Who We Are](#Who) 
-
 [Run](#Run) 
 
 [Examples](#Examples)  
-
-<a name="Who"></a>
-### Who We Are
-
-IMMUNE Technology Institute is a thriving community of learning and innovation at the forefront of technology education. Our approach to education breaks down the barriers of the traditional system to train new technology leaders.
-
-You can find more information about our programms [here](https://immune.institute/en/)
 
 <a name="Run"></a>
 ### Run
